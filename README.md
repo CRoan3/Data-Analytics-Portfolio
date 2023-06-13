@@ -6,9 +6,9 @@ Hello! My name is Chris. I started my working career as a personal trainer. I ea
 
 My CV PDF:
 
-My Kaggle homepage: https://www.kaggle.com/chrisroan/code
+My Kaggle [homepage](https://www.kaggle.com/chrisroan/code)
 
-My Tableau homepage: https://public.tableau.com/app/profile/christopher.roan
+My Tableau [homepage](https://public.tableau.com/app/profile/christopher.roan)
 
 # Projects
 
@@ -16,27 +16,27 @@ My Tableau homepage: https://public.tableau.com/app/profile/christopher.roan
 
 ### Cyclistic Case Study - Google Data Analytics Certificate Project
 
-Code: https://www.kaggle.com/code/chrisroan/cyclistic-case-study-google-da-cert
+[Code](https://www.kaggle.com/code/chrisroan/cyclistic-case-study-google-da-cert)
 
-PowerPoint: https://docs.google.com/presentation/d/1Ppuq2hSXsEXMqJbc6FNVe5vm1BWdjreJiAj2yrpovMo/edit#slide=id.p
+[PowerPoint](https://docs.google.com/presentation/d/1Ppuq2hSXsEXMqJbc6FNVe5vm1BWdjreJiAj2yrpovMo/edit#slide=id.p)
 
 Description: My goal for this project was to determine some of the key differences in how members and casual users use the Chicago-based Cyclistic’s bike-share service. In this scenario, it is given that members make up the bulk of the revenue for the fictional company, and thus my task is to analyze the differences between the two types of users to provide some insight into how the company can convert casual users into members. All data was collected from Q2 2019 - Q1 2020.
 
 ### BellaBeat Case Study - Google Data Analytics Certificate Project
 
-Code: https://www.kaggle.com/code/chrisroan/bellabeat-case-study-google-da-cert
+[Code](https://www.kaggle.com/code/chrisroan/bellabeat-case-study-google-da-cert)
 
-PowerPoint: https://docs.google.com/presentation/d/1gIwWyKt9385ZEdLq8UrUtEZ_SZeJr1vjWU1RMIYjA5o/edit#slide=id.p
+[PowerPoint](https://docs.google.com/presentation/d/1gIwWyKt9385ZEdLq8UrUtEZ_SZeJr1vjWU1RMIYjA5o/edit#slide=id.p)
 
 Description: My goal for this project was to analyze smart device usage data to gain insight into how consumers use non-Bellabeat smart devices and then apply these insights to one of BellaBeat's devices in a presentation. All data was collected from Mar 12, 2016 - May 12, 2016.
 
 ### Video Game Sales Exploratory Data Analysis - Google Data Analytics Certificate Project
 
-Code: https://www.kaggle.com/code/chrisroan/video-games-sales-google-da-cert
+[Code](https://www.kaggle.com/code/chrisroan/video-games-sales-google-da-cert)
 
 Objective: Explore global video game console sales from the years 1980 to 2016.
 
-Key Findings/Summary: North America is the most profitable region for video sales (2016). The most popular genre for video games of all time are Action, followed by sports, "miscellaneous", and then role-playing games. Nintendo has published the most games out of any company. They are followed by EA and Activison. Playstation 2 has the most global sales of any console. There was a notable sharp decline in global sales post-2008. I attribute this to the rise of the mobile gaming market, which has grown exponentially since the late 2000's. This link highlights the growth of the mobile gaming market: https://www.visualcapitalist.com/how-big-is-the-global-mobile-gaming-industry/.
+Key Findings/Summary: North America is the most profitable region for video sales (2016). The most popular genre for video games of all time are Action, followed by sports, "miscellaneous", and then role-playing games. Nintendo has published the most games out of any company. They are followed by EA and Activison. Playstation 2 has the most global sales of any console. There was a notable sharp decline in global sales post-2008. I attribute this to the rise of the mobile gaming market, which has grown exponentially since the late 2000's. This [link](https://www.visualcapitalist.com/how-big-is-the-global-mobile-gaming-industry/) highlights the growth of the mobile gaming market.
 
 ### World Population Exploratory Data Analysis
 
