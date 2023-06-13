@@ -6,6 +6,10 @@ Hello! My name is Chris. I started my working career as a personal trainer. I ea
 
 My CV PDF:
 
+My Kaggle homepage: https://www.kaggle.com/chrisroan/code
+
+My Tableau homepage: https://public.tableau.com/app/profile/christopher.roan
+
 # Projects
 
 ## Projects in R
@@ -30,7 +34,7 @@ Description: My goal for this project was to analyze smart device usage data to 
 
 Code: https://www.kaggle.com/code/chrisroan/video-games-sales-google-da-cert
 
-Objective: My goal for this project was to explore global video game console sales from the years 1980 to 2016.
+Objective: Explore global video game console sales from the years 1980 to 2016.
 
 Key Findings/Summary: North America is the most profitable region for video sales (2016). The most popular genre for video games of all time are Action, followed by sports, "miscellaneous", and then role-playing games. Nintendo has published the most games out of any company. They are followed by EA and Activison. Playstation 2 has the most global sales of any console. There was a notable sharp decline in global sales post-2008. I attribute this to the rise of the mobile gaming market, which has grown exponentially since the late 2000's. This link highlights the growth of the mobile gaming market: https://www.visualcapitalist.com/how-big-is-the-global-mobile-gaming-industry/.
 
@@ -38,7 +42,7 @@ Key Findings/Summary: North America is the most profitable region for video sale
 
 Code: https://www.kaggle.com/code/chrisroan/world-population-eda-2022
 
-Objective:  My goal for this project was to explore population changes at a global scale since 1970. All data was collected from 1970 - 2022.
+Objective:  Explore population changes at a global scale since 1970. All data was collected from 1970 - 2022.
 
 Key Findings/Summary: The rate of global population growth is decreasing decade-to-decade, so it would interesting to see how it changes from 2020 to 2030. Asia and Africa are the greatest contributing countries to the World's population. Since 1970, the population of both continents has more than doubled. China and India are the 2 countries with the largest contribution to the World's population, with each contributing almost 20%. Hong Kong is commonly touted as a very densely poplated location. However, it is only rank 4. It is also far behind the rank 1 and 2 countries, Macau and Monoco.
 
@@ -46,8 +50,14 @@ Key Findings/Summary: The rate of global population growth is decreasing decade-
 
 Code: https://www.kaggle.com/code/chrisroan/world-energy-data-1990-2020-eda-r
 
-Objective: My Goal for this project was to look at trends in energy consumption and production across differnet countries around the world. All data was collected from 1990-2020.
+Objective: Find trends in energy consumption and production across differnet countries around the world. All data was collected from 1990-2020.
 
 Key Findings/Summary: In the mid-2000s, environmental concerns became increasingly prevalent. Reducing CO2 emissions that are impacting the ozone layer of the atmosphere (leading to global warming) gained much economic and political traction in the US. Since, there has been a large push to reduce CO2 emissions across the board - from vehicle emissions to factory emissions. Part of that equation is increasing fuel efficiency and using alternative methods for transportation. The population of the US grew by ~50,000,000 from the years 2000 to 2020, yet total energy consumption has gone down by several hundred million tons of oil equivalent (Mtoe). In the same period of time, energy production has also increased quite drastically. In a situation where energy production surpasses consumption, energy can be exported which is a boost to the ecnonomy. I would love to find data from 2020-2023 to see if the trend has continied.
 
-### 
+### Hourly Electricity Consumption and Production in Romania Exploratory Data Analysis
+
+Code: https://www.kaggle.com/code/chrisroan/r-romanian-hourly-electricity-consumption-prod
+
+Objective: Find trends in electricty consumption and production from various resource types in Romania. All data was collected from 2019 - Mar 2023.
+
+Key Findings/Summary: The warmest months of the year (summer months), as well as weekends tend to be when energy production as it its lowest. The warmer temperatures in the summer mean that water used to cool power plants is warmer, so less energy can be produced before the system overheats. On the weekend, businesses tend to be shutdown, so logically, there will be less energy produced. Fossil fuels such as coal have begun to be phased out in favor of other methods of producing electricity such as biomass, wind, and solar energy. Romania receives the largest contribution of its electricity production from hydroelectric sources. Electricity produced from wind has the strongest variabiltiy due to how drastically wind patterns can change day-to-day. Overall, Romania consumes more electricity than they produce. Therefore, they must import electricity to meet demands.
