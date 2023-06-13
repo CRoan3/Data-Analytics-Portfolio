@@ -82,43 +82,39 @@ Key Findings/Summary: The sheer number of titles added to Netflix has increased 
 
 ## Projects in Tableau
 
-### London Bus Safety Dashboard - London Bus Safety Performance Dataset (2015- Sept. 2018) - Data Visualization with Tableau Certificate Project 
-
-[Link](https://public.tableau.com/app/profile/christopher.roan/viz/TFLBusSafety-Jan2015toSept2018/LBSDashboard)
+### [London Bus Safety Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/TFLBusSafety-Jan2015toSept2018/LBSDashboard) - London Bus Safety Performance Dataset (2015- Sept. 2018) - Data Visualization with Tableau Certificate Project 
 
 Description: Interactive dashboard consisting of a list of boroughs in London, and incident counts that occured in each borough and bus route. Also includes incidents over time (per year) and per season.
 
-### Sales and Profit Dashboard - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project
-
-[Link](https://public.tableau.com/app/profile/christopher.roan/viz/SalesandProfitbyRegionandCustomer/CustomerDashboard)
+### [Sales and Profit Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/SalesandProfitbyRegionandCustomer/CustomerDashboard) - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project
 
 Description: Interactive dashboard containing a sales and profit overview by region of the Untied States, a scatterplot of sales and profit by customer, and a list of customers ranked by total sales to that customer.
 
-### Discount and Profit Dashboard - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project 
+### [Discount and Profit Dashboard] - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project 
 
 [Link](https://public.tableau.com/app/profile/christopher.roan/viz/DiscountvsProfitDashboard-SuperstoreDataset/AverageDiscountandProfitRatio)
 
 Description: Interactive dashboard containing discount and profit overviews by region of the US and segment (category of product), scatterplot showing trends of discount vs profits, and a customer ranking by average discount that is colored by profit.
 
-### Control Chart of Profit by Month - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
+### [Control Chart of Profit by Month] - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
 
 [Link](https://public.tableau.com/app/profile/christopher.roan/viz/ControlChart-SuperstoreProfitbyMonth/ControlChart)
 
 Description: A control chart of profits per month that highlights outlier months (based on standard of deviation).
 
-### Customer Sales and Profit Scatterplot - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
+### [Customer Sales and Profit Scatterplot] - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
 
 [Link](https://public.tableau.com/app/profile/christopher.roan/viz/CustomerSalesvs_ProfitScatterplot-SuperstoreDataset/CustomerSalesvs_ProfitScatterplot)
 
 Description: Scatterplot of sales and profit with a trend line, colored by profit ratio and shaped by product category.
 
-### Dual Layer Map of Profit Ratio and Regions of the US - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
+### [Dual Layer Map of Profit Ratio and Regions of the US] - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
 
 [Link](https://public.tableau.com/app/profile/christopher.roan/viz/DualLayerMap-SuperstoreDataset/DualLayerMapsAssignment)
 
 Description: Dual layer map chart that shows regions of the US, highlighting postal codes by profit ratio and sales. 
 
-### Total Coronavirus Cases and Deaths in the United States (March 2023) - Coronavirus State and County Dataset (through Mar 2023)
+### [Total Coronavirus Cases and Deaths in the United States (March 2023)] - Coronavirus State and County Dataset (through Mar 2023)
 
 [Link](https://public.tableau.com/app/profile/christopher.roan/viz/TotalCoronavirusCasesandDeathsintheUnitedStatesMarch2023/USCoronavirusDashboard)
 
@@ -126,21 +122,18 @@ Description: Interactive dashboard that shows total coronavirus-related deaths a
 
 # Relevant Certifications
 
-## Google Data Analytics Certificate - Google - Aug, 8 2022
+## [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/S9DL8NNVPA2J)
+ - Google - Aug, 8 2022
 
-[Link](https://www.coursera.org/account/accomplishments/professional-cert/S9DL8NNVPA2J)
+## [Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/specialization/NWCNT8HB3959)
+ - UC Davis - June 8, 2023
 
-## Data Visualization with Tableau - UC Davis - June 8, 2023
+## [Database Design and Basic SQL in PostgresSQL](https://www.coursera.org/account/accomplishments/verify/3MVM5ZAV3DDT)
+ - University of Michigan - April 11, 2023
 
-[Link](https://www.coursera.org/account/accomplishments/specialization/NWCNT8HB3959)
+## [Intermediate ProgresSQL](https://www.coursera.org/account/accomplishments/verify/G4FWKH77LRK3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+ - University of Michigan - April 18, 2023
 
-## Database Design and Basic SQL in PostgresSQL - University of Michigan - April 11, 2023
-
-[Link](https://www.coursera.org/account/accomplishments/verify/3MVM5ZAV3DDT)
-
-## Intermediate ProgresSQL - University of Michigan - April 18, 2023
-
-[Link](https://www.coursera.org/account/accomplishments/verify/G4FWKH77LRK3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 
 
