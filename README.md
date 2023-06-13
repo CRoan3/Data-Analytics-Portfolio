@@ -1,4 +1,4 @@
-# Christohper Roan - Data Analytics Portfolio
+# Christopher Roan - Data Analytics Portfolio
 # About
 This is a repository of some of my data analytics projects. It contains mostly R code and visualizations posted on Kaggle, as well as dashboards and other visualizations created via Tableau. Please feel free to take a peak, and any feedback is welcome!
 
