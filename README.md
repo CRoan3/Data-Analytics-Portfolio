@@ -4,13 +4,13 @@ This is a repository of some of my data analytics projects. It contains mostly R
 
 Hello! My name is Chris. I started my working career as a personal trainer. I earned a Bachelor's Degree in Kinesiology from the University of North Carolina at Greensboro, and even ventured into physical therapy. I discovered that that was not the course I wanted to take, so I began to look elsewhere. I stumbled upon Google's Data Analytics Certificate program on Coursera over a year ago, and the rest is history. Since, I have continued developing my skillset as a data analyst through taking more courses and working on personal projects. My goal is to begin work as a data analyst and grow with a commpany.
 
-My CV PDF:
+[CV/Resume](https://drive.google.com/file/d/1qQCUc0mevOQFa4zs_LJOUW-gDEea12qO/view?usp=drive_link)
 
-LinkedIn [Profile](https://www.linkedin.com/in/christopher-roan-222228243/)
+[LinkedIn Profile](https://www.linkedin.com/in/christopher-roan-222228243/)
 
-Kaggle [Profile](https://www.kaggle.com/chrisroan/code)
+[Kaggle Profile](https://www.kaggle.com/chrisroan/code)
 
-Tableau [Profile](https://public.tableau.com/app/profile/christopher.roan)
+[Tableau Profile](https://public.tableau.com/app/profile/christopher.roan)
 
 # Projects
 
