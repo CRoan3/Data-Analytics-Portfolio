@@ -68,6 +68,14 @@ Code: https://www.kaggle.com/code/chrisroan/eda-for-us-police-shootings-2015-aug
 
 Objective: Discover patterns in US police shootings from 2015 to Aug 2022, such as total shootings, shooting by state, and shooting victims' race.
 
-Key findings/summary: The age brackets of "21-40" and "41-60" have the highest incidents of fatal police shootings. I feel that this is to be expected, and it aligns closely with statistical information produced by the Federal Bureau of Prisons through August 27 that shows the mode age to be 36, with a bit of a "bell curve" forming around that mode. 95.2% of all police shooting victims were male, with 85.8% of all shootings being carried out without a police bodycam on. Since 2015, 3183 of all victims were white/caucasian, and 1678 victims were black/African American. The vast majority of individuals that were fatally shot by police officers since 2015 were armed with a gun. Only 454 out of 7,682 victims were unarmed.
+Key Findings/Summary: The age brackets of "21-40" and "41-60" have the highest incidents of fatal police shootings. I feel that this is to be expected, and it aligns closely with statistical information produced by the Federal Bureau of Prisons through August 27 that shows the mode age to be 36, with a bit of a "bell curve" forming around that mode. 95.2% of all police shooting victims were male, with 85.8% of all shootings being carried out without a police bodycam on. Since 2015, 3,183 of all victims were white/caucasian, and 1,678 victims were black/African American. The vast majority of individuals that were fatally shot by police officers since 2015 were armed with a gun. Only 454 out of 7,682 victims were unarmed.
+
+### Netflix Titles Exploratory Data Analysis 
+
+Code: https://www.kaggle.com/code/chrisroan/netflix-titles-project-2019-data
+
+Objective: Look for trends in what Netflix puts on its platform. All data was collected from Netflix's release to 2019. Guiding questions: "Does Netflix focus more on TV shows or movies?, "What does the distribution of age ratings for TV shows and movies look like?", "How do the titles produced by various countries differ (do they focus on TV shows or movies?", and "What directors appear most frequently?"
+
+Key Findings/Summary: The sheer number of titles added to Netflix has increased drastically since its initial release. In 2015, 74 titles were added. In 2019, 1,843 total titles were added. ~35.5% of all titles were added that year. Since 2017, 2-3x more movies were added to Netflix than TV shows. TV-MA and TV-14 were the most common age ratings among titles. Two popular directors from the US, Martin Scorsese and Steven Spielberg, appeared in the list of top 10 directors by number of titles. The champion(s) of the most popular directors by number of titles were two Spanish directors, Raul Campos and Jan Suter. This duo beat Martin Scorses by 4 titles (18 vs 14 titles).
 
 
