@@ -78,4 +78,24 @@ Objective: Look for trends in what Netflix puts on its platform. All data was co
 
 Key Findings/Summary: The sheer number of titles added to Netflix has increased drastically since its initial release. In 2015, 74 titles were added. In 2019, 1,843 total titles were added. ~35.5% of all titles were added that year. Since 2017, 2-3x more movies were added to Netflix than TV shows. TV-MA and TV-14 were the most common age ratings among titles. Two popular directors from the US, Martin Scorsese and Steven Spielberg, appeared in the list of top 10 directors by number of titles. The champion(s) of the most popular directors by number of titles were two Spanish directors, Raul Campos and Jan Suter. This duo beat Martin Scorses by 4 titles (18 vs 14 titles).
 
+## Projects in Tableau
+
+### London Bus Safety Dashboard - London Bus Safety Performance Dataset (2015- Sept. 2018) - Data Visualization with Tableau Certificate Project 
+
+Link: https://public.tableau.com/app/profile/christopher.roan/viz/TFLBusSafety-Jan2015toSept2018/LBSDashboard
+
+Summary: Interactive dashboard consisting of a list of boroughs in London, and incident counts that occured in each borough and bus route. Also includes incidents over time (per year) and per season.
+
+### Sales and Profit Dashboard - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project
+
+Link: https://public.tableau.com/app/profile/christopher.roan/viz/SalesandProfitbyRegionandCustomer/CustomerDashboard
+
+Summary: Interactive dashboard containing a sales and profit overview by region, a scatterplot of sales and profit by customer, and a list of customers ranked by total sales to that customer.
+
+### Discount and Profit Dashboard - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project 
+
+Kink:
+
+Summary:
+
 
