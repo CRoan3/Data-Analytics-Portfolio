@@ -1,6 +1,6 @@
 # Christopher Roan - Data Analytics Portfolio
 # About
-This is a repository of some of my data analytics projects. It contains mostly R code and visualizations posted on Kaggle, as well as dashboards and other visualizations created via Tableau. Please feel free to take a peak, and any feedback is welcome!
+*This is a repository of some of my data analytics projects. It contains mostly R code and visualizations posted on Kaggle, as well as dashboards and other visualizations created via Tableau. Please feel free to take a peak, and any feedback is welcome!
 
 Hello! My name is Chris. I started my working career as a personal trainer. I earned a Bachelor's Degree in Kinesiology from the University of North Carolina at Greensboro, and even ventured into physical therapy. I discovered that that was not the course I wanted to take, so I began to look elsewhere. I stumbled upon Google's Data Analytics Certificate program on Coursera over a year ago, and the rest is history. Since, I have continued developing my skillset as a data analyst through taking more courses and working on personal projects. My goal is to begin work as a data analyst and grow with a commpany.
 
