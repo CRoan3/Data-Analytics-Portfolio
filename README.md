@@ -94,8 +94,22 @@ Summary: Interactive dashboard containing a sales and profit overview by region,
 
 ### Discount and Profit Dashboard - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project 
 
-Kink:
+Link: https://public.tableau.com/app/profile/christopher.roan/viz/DiscountvsProfitDashboard-SuperstoreDataset/AverageDiscountandProfitRatio
 
-Summary:
+Summary: Interactive dashboard containing discount and profit overviews by region and segment (category of product), scatterplot showing trends of discount vs profits, and a customer ranking by average discount that is colored by profit.
+
+### Control Chart of Profit by Month - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
+
+Link: https://public.tableau.com/app/profile/christopher.roan/viz/ControlChart-SuperstoreProfitbyMonth/ControlChart
+
+Summary: A control chart of profits per month that highlights outlier months (based on standard of deviation).
+
+### Customer Sales and Profit Scatterplot - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
+
+Link: https://public.tableau.com/app/profile/christopher.roan/viz/CustomerSalesvs_ProfitScatterplot-SuperstoreDataset/CustomerSalesvs_ProfitScatterplot
+
+SUmmary: 
+
+
 
 
