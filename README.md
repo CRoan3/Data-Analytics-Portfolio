@@ -25,3 +25,19 @@ Code: https://www.kaggle.com/code/chrisroan/bellabeat-case-study-google-da-cert
 PowerPoint: https://docs.google.com/presentation/d/1gIwWyKt9385ZEdLq8UrUtEZ_SZeJr1vjWU1RMIYjA5o/edit#slide=id.p
 
 Description: My goal for this project was to analyze smart device usage data to gain insight into how consumers use non-Bellabeat smart devices and then apply these insights to one of BellaBeat's devices in a presentation. All data was collected from Mar 12, 2016 - May 12, 2016.
+
+### World Population Exploratory Data Analysis
+
+Code: https://www.kaggle.com/code/chrisroan/world-population-eda-2022
+
+Objective:  My goal for this project was to explore population changes at a global scale since 1970. All data was collected from 1970 - 2022.
+
+Key Findings/Summary: The rate of global population growth is decreasing decade-to-decade, so it would interesting to see how it changes from 2020 to 2030. Asia and Africa are the greatest contributing countries to the World's population. Since 1970, the population of both continents has more than doubled. China and India are the 2 countries with the largest contribution to the World's population, with each contributing almost 20%. Hong Kong is commonly touted as a very densely poplated location. However, it is only rank 4. It is also far behind the rank 1 and 2 countries, Macau and Monoco.
+
+### World Energy Data Exploratory Data Analysis
+
+Code: https://www.kaggle.com/code/chrisroan/world-energy-data-1990-2020-eda-r
+
+Objective: My Goal for this project was to look at trends in energy consumption and production across differnet countries around the world. All data was collected from 1990-2020.
+
+Key Findings/Summary: In the mid-2000s, environmental concerns became increasingly prevalent. Reducing CO2 emissions that are impacting the ozone layer of the atmosphere (leading to global warming) gained much economic and political traction in the US. Since, there has been a large push to reduce CO2 emissions across the board - from vehicle emissions to factory emissions. Part of that equation is increasing fuel efficiency and using alternative methods for transportation. The population of the US grew by ~50,000,000 from the years 2000 to 2020, yet total energy consumption has gone down by several hundred million tons of oil equivalent (Mtoe). In the same period of time, energy production has also increased quite drastically. In a situation where energy production surpasses consumption, energy can be exported which is a boost to the ecnonomy. I would love to find data from 2020-2023 to see if the trend has continied.
