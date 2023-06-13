@@ -74,7 +74,7 @@ Key Findings/Summary: The age brackets of "21-40" and "41-60" have the highest i
 
 Code: https://www.kaggle.com/code/chrisroan/netflix-titles-project-2019-data
 
-Objective: Look for trends in what Netflix puts on its platform. All data was collected from Netflix's release to 2019. Guiding questions: "Does Netflix focus more on TV shows or movies?, "What does the distribution of age ratings for TV shows and movies look like?", "How do the titles produced by various countries differ (do they focus on TV shows or movies?", and "What directors appear most frequently?"
+Objective: Look for trends in what Netflix puts on its platform. All data was collected from Netflix's release to 2019 by "Flixable". Guiding questions: "Does Netflix focus more on TV shows or movies?, "What does the distribution of age ratings for TV shows and movies look like?", "How do the titles produced by various countries differ (do they focus on TV shows or movies?", and "What directors appear most frequently?"
 
 Key Findings/Summary: The sheer number of titles added to Netflix has increased drastically since its initial release. In 2015, 74 titles were added. In 2019, 1,843 total titles were added. ~35.5% of all titles were added that year. Since 2017, 2-3x more movies were added to Netflix than TV shows. TV-MA and TV-14 were the most common age ratings among titles. Two popular directors from the US, Martin Scorsese and Steven Spielberg, appeared in the list of top 10 directors by number of titles. The champion(s) of the most popular directors by number of titles were two Spanish directors, Raul Campos and Jan Suter. This duo beat Martin Scorses by 4 titles (18 vs 14 titles).
 
@@ -131,6 +131,15 @@ Link: https://www.coursera.org/account/accomplishments/professional-cert/S9DL8NN
 ## Data Visualization with Tableau - UC Davis - June 8, 2023
 
 Link: https://www.coursera.org/account/accomplishments/specialization/NWCNT8HB3959
+
+## Database Design and Basic SQL in PostgresSQL - University of Michigan - April 11, 2023
+
+Link: https://www.coursera.org/account/accomplishments/verify/3MVM5ZAV3DDT
+
+## Intermediate ProgresSQL - University of Michigan - April 18, 2023
+
+Link: https://www.coursera.org/account/accomplishments/verify/G4FWKH77LRK3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+
 
 
 
