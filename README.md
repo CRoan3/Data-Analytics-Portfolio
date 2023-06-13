@@ -61,3 +61,13 @@ Code: https://www.kaggle.com/code/chrisroan/r-romanian-hourly-electricity-consum
 Objective: Find trends in electricty consumption and production from various resource types in Romania. All data was collected from 2019 - Mar 2023.
 
 Key Findings/Summary: The warmest months of the year (summer months), as well as weekends tend to be when energy production as it its lowest. The warmer temperatures in the summer mean that water used to cool power plants is warmer, so less energy can be produced before the system overheats. On the weekend, businesses tend to be shutdown, so logically, there will be less energy produced. Fossil fuels such as coal have begun to be phased out in favor of other methods of producing electricity such as biomass, wind, and solar energy. Romania receives the largest contribution of its electricity production from hydroelectric sources. Electricity produced from wind has the strongest variabiltiy due to how drastically wind patterns can change day-to-day. Overall, Romania consumes more electricity than they produce. Therefore, they must import electricity to meet demands.
+
+### US Police Shootings Exploratory Data Analysis
+
+Code: https://www.kaggle.com/code/chrisroan/eda-for-us-police-shootings-2015-aug-2022-data
+
+Objective: Discover patterns in US police shootings from 2015 to Aug 2022, such as total shootings, shooting by state, and shooting victims' race.
+
+Key findings/summary: The age brackets of "21-40" and "41-60" have the highest incidents of fatal police shootings. I feel that this is to be expected, and it aligns closely with statistical information produced by the Federal Bureau of Prisons through August 27 that shows the mode age to be 36, with a bit of a "bell curve" forming around that mode. 95.2% of all police shooting victims were male, with 85.8% of all shootings being carried out without a police bodycam on. Since 2015, 3183 of all victims were white/caucasian, and 1678 victims were black/African American. The vast majority of individuals that were fatally shot by police officers since 2015 were armed with a gun. Only 454 out of 7,682 victims were unarmed.
+
+
