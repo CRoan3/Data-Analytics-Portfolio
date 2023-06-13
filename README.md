@@ -124,7 +124,13 @@ Description: Interactive dashboard that shows total coronavirus-related deaths a
 
 # Relevant Certifications
 
+## Google Data Analytics Certificate - Google - Aug, 8 2022
 
+Link: https://www.coursera.org/account/accomplishments/professional-cert/S9DL8NNVPA2J
+
+## Data Visualization with Tableau - UC Davis - June 8, 2023
+
+Link: https://www.coursera.org/account/accomplishments/specialization/NWCNT8HB3959
 
 
 
