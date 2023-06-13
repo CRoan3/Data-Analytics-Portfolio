@@ -32,49 +32,38 @@ Description: My goal for this project was to determine some of the key differenc
 
 Description: My goal for this project was to analyze smart device usage data to gain insight into how consumers use non-Bellabeat smart devices and then apply these insights to one of BellaBeat's devices in a presentation. All data was collected from Mar 12, 2016 - May 12, 2016.
 
-### Video Game Sales Exploratory Data Analysis - Google Data Analytics Certificate Project
-
-[Code](https://www.kaggle.com/code/chrisroan/video-games-sales-google-da-cert)
+### [Video Game Sales Exploratory Data Analysis](https://www.kaggle.com/code/chrisroan/video-games-sales-google-da-cert)
+ - Google Data Analytics Certificate Project
 
 Objective: Explore global video game console sales from the years 1980 to 2016.
 
 Key Findings/Summary: North America is the most profitable region for video sales (2016). The most popular genre for video games of all time are Action, followed by sports, "miscellaneous", and then role-playing games. Nintendo has published the most games out of any company. They are followed by EA and Activison. Playstation 2 has the most global sales of any console. There was a notable sharp decline in global sales post-2008. I attribute this to the rise of the mobile gaming market, which has grown exponentially since the late 2000's. This [link](https://www.visualcapitalist.com/how-big-is-the-global-mobile-gaming-industry/) highlights the growth of the mobile gaming market.
 
-### World Population Exploratory Data Analysis
-
-[Code](https://www.kaggle.com/code/chrisroan/world-population-eda-2022)
+### [World Population Exploratory Data Analysis](https://www.kaggle.com/code/chrisroan/world-population-eda-2022)
 
 Objective:  Explore population changes at a global scale since 1970. All data was collected from 1970 - 2022.
 
 Key Findings/Summary: The rate of global population growth is decreasing decade-to-decade, so it would interesting to see how it changes from 2020 to 2030. Asia and Africa are the greatest contributing countries to the World's population. Since 1970, the population of both continents has more than doubled. China and India are the 2 countries with the largest contribution to the World's population, with each contributing almost 20%. Hong Kong is commonly touted as a very densely poplated location. However, it is only rank 4. It is also far behind the rank 1 and 2 countries, Macau and Monoco.
 
-### World Energy Data Exploratory Data Analysis
-
-[Code](https://www.kaggle.com/code/chrisroan/world-energy-data-1990-2020-eda-r)
+### [World Energy Data Exploratory Data Analysis](https://www.kaggle.com/code/chrisroan/world-energy-data-1990-2020-eda-r)
 
 Objective: Find trends in energy consumption and production across differnet countries around the world. All data was collected from 1990-2020.
 
 Key Findings/Summary: In the mid-2000s, environmental concerns became increasingly prevalent. Reducing CO2 emissions that are impacting the ozone layer of the atmosphere (leading to global warming) gained much economic and political traction in the US. Since, there has been a large push to reduce CO2 emissions across the board - from vehicle emissions to factory emissions. Part of that equation is increasing fuel efficiency and using alternative methods for transportation. The population of the US grew by ~50,000,000 from the years 2000 to 2020, yet total energy consumption has gone down by several hundred million tons of oil equivalent (Mtoe). In the same period of time, energy production has also increased quite drastically. In a situation where energy production surpasses consumption, energy can be exported which is a boost to the ecnonomy. I would love to find data from 2020-2023 to see if the trend has continied.
 
-### Hourly Electricity Consumption and Production in Romania Exploratory Data Analysis
-
-[Code](https://www.kaggle.com/code/chrisroan/r-romanian-hourly-electricity-consumption-prod)
+### [Hourly Electricity Consumption and Production in Romania Exploratory Data Analysis](https://www.kaggle.com/code/chrisroan/r-romanian-hourly-electricity-consumption-prod)
 
 Objective: Find trends in electricty consumption and production from various resource types in Romania. All data was collected from 2019 - Mar 2023.
 
 Key Findings/Summary: The warmest months of the year (summer months), as well as weekends tend to be when energy production as it its lowest. The warmer temperatures in the summer mean that water used to cool power plants is warmer, so less energy can be produced before the system overheats. On the weekend, businesses tend to be shutdown, so logically, there will be less energy produced. Fossil fuels such as coal have begun to be phased out in favor of other methods of producing electricity such as biomass, wind, and solar energy. Romania receives the largest contribution of its electricity production from hydroelectric sources. Electricity produced from wind has the strongest variabiltiy due to how drastically wind patterns can change day-to-day. Overall, Romania consumes more electricity than they produce. Therefore, they must import electricity to meet demands.
 
-### US Police Shootings Exploratory Data Analysis
-
-[Code](https://www.kaggle.com/code/chrisroan/eda-for-us-police-shootings-2015-aug-2022-data)
+### [US Police Shootings Exploratory Data Analysis](https://www.kaggle.com/code/chrisroan/eda-for-us-police-shootings-2015-aug-2022-data)
 
 Objective: Discover patterns in US police shootings from 2015 to Aug 2022, such as total shootings, shooting by state, and shooting victims' race.
 
 Key Findings/Summary: The age brackets of "21-40" and "41-60" have the highest incidents of fatal police shootings. I feel that this is to be expected, and it aligns closely with statistical information produced by the Federal Bureau of Prisons through August 27 that shows the mode age to be 36, with a bit of a "bell curve" forming around that mode. 95.2% of all police shooting victims were male, with 85.8% of all shootings being carried out without a police bodycam on. Since 2015, 3,183 of all victims were white/caucasian, and 1,678 victims were black/African American. The vast majority of individuals that were fatally shot by police officers since 2015 were armed with a gun. Only 454 out of 7,682 victims were unarmed.
 
-### Netflix Titles Exploratory Data Analysis 
-
-[Code](https://www.kaggle.com/code/chrisroan/netflix-titles-project-2019-data)
+### [Netflix Titles Exploratory Data Analysis](https://www.kaggle.com/code/chrisroan/netflix-titles-project-2019-data)
 
 Objective: Look for trends in what Netflix puts on its platform. All data was collected from Netflix's release to 2019 by "Flixable". Guiding questions: "Does Netflix focus more on TV shows or movies?, "What does the distribution of age ratings for TV shows and movies look like?", "How do the titles produced by various countries differ (do they focus on TV shows or movies?", and "What directors appear most frequently?"
 
@@ -82,11 +71,13 @@ Key Findings/Summary: The sheer number of titles added to Netflix has increased 
 
 ## Projects in Tableau
 
-### [London Bus Safety Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/TFLBusSafety-Jan2015toSept2018/LBSDashboard) - London Bus Safety Performance Dataset (2015- Sept. 2018) - Data Visualization with Tableau Certificate Project 
+### [London Bus Safety Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/TFLBusSafety-Jan2015toSept2018/LBSDashboard)
+- London Bus Safety Performance Dataset (2015- Sept. 2018) - Data Visualization with Tableau Certificate Project 
 
 Description: Interactive dashboard consisting of a list of boroughs in London, and incident counts that occured in each borough and bus route. Also includes incidents over time (per year) and per season.
 
-### [Sales and Profit Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/SalesandProfitbyRegionandCustomer/CustomerDashboard) - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project
+### [Sales and Profit Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/SalesandProfitbyRegionandCustomer/CustomerDashboard) 
+ - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project
 
 Description: Interactive dashboard containing a sales and profit overview by region of the Untied States, a scatterplot of sales and profit by customer, and a list of customers ranked by total sales to that customer.
 
