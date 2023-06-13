@@ -6,9 +6,11 @@ Hello! My name is Chris. I started my working career as a personal trainer. I ea
 
 My CV PDF:
 
-My Kaggle [homepage](https://www.kaggle.com/chrisroan/code)
+LinkedIn [Profile](https://www.linkedin.com/in/christopher-roan-222228243/)
 
-My Tableau [homepage](https://public.tableau.com/app/profile/christopher.roan)
+Kaggle [Profile](https://www.kaggle.com/chrisroan/code)
+
+Tableau [Profile](https://public.tableau.com/app/profile/christopher.roan)
 
 # Projects
 
@@ -18,7 +20,7 @@ My Tableau [homepage](https://public.tableau.com/app/profile/christopher.roan)
 
 [Code](https://www.kaggle.com/code/chrisroan/cyclistic-case-study-google-da-cert)
 
-[PowerPoint](https://docs.google.com/presentation/d/1Ppuq2hSXsEXMqJbc6FNVe5vm1BWdjreJiAj2yrpovMo/edit#slide=id.p)
+[Presentation](https://docs.google.com/presentation/d/1Ppuq2hSXsEXMqJbc6FNVe5vm1BWdjreJiAj2yrpovMo/edit#slide=id.p)
 
 Description: My goal for this project was to determine some of the key differences in how members and casual users use the Chicago-based Cyclistic’s bike-share service. In this scenario, it is given that members make up the bulk of the revenue for the fictional company, and thus my task is to analyze the differences between the two types of users to provide some insight into how the company can convert casual users into members. All data was collected from Q2 2019 - Q1 2020.
 
@@ -26,7 +28,7 @@ Description: My goal for this project was to determine some of the key differenc
 
 [Code](https://www.kaggle.com/code/chrisroan/bellabeat-case-study-google-da-cert)
 
-[PowerPoint](https://docs.google.com/presentation/d/1gIwWyKt9385ZEdLq8UrUtEZ_SZeJr1vjWU1RMIYjA5o/edit#slide=id.p)
+[Presentation](https://docs.google.com/presentation/d/1gIwWyKt9385ZEdLq8UrUtEZ_SZeJr1vjWU1RMIYjA5o/edit#slide=id.p)
 
 Description: My goal for this project was to analyze smart device usage data to gain insight into how consumers use non-Bellabeat smart devices and then apply these insights to one of BellaBeat's devices in a presentation. All data was collected from Mar 12, 2016 - May 12, 2016.
 
@@ -40,7 +42,7 @@ Key Findings/Summary: North America is the most profitable region for video sale
 
 ### World Population Exploratory Data Analysis
 
-Code: https://www.kaggle.com/code/chrisroan/world-population-eda-2022
+[Code](https://www.kaggle.com/code/chrisroan/world-population-eda-2022)
 
 Objective:  Explore population changes at a global scale since 1970. All data was collected from 1970 - 2022.
 
@@ -48,7 +50,7 @@ Key Findings/Summary: The rate of global population growth is decreasing decade-
 
 ### World Energy Data Exploratory Data Analysis
 
-Code: https://www.kaggle.com/code/chrisroan/world-energy-data-1990-2020-eda-r
+[Code](https://www.kaggle.com/code/chrisroan/world-energy-data-1990-2020-eda-r)
 
 Objective: Find trends in energy consumption and production across differnet countries around the world. All data was collected from 1990-2020.
 
@@ -56,7 +58,7 @@ Key Findings/Summary: In the mid-2000s, environmental concerns became increasing
 
 ### Hourly Electricity Consumption and Production in Romania Exploratory Data Analysis
 
-Code: https://www.kaggle.com/code/chrisroan/r-romanian-hourly-electricity-consumption-prod
+[Code](https://www.kaggle.com/code/chrisroan/r-romanian-hourly-electricity-consumption-prod)
 
 Objective: Find trends in electricty consumption and production from various resource types in Romania. All data was collected from 2019 - Mar 2023.
 
@@ -64,7 +66,7 @@ Key Findings/Summary: The warmest months of the year (summer months), as well as
 
 ### US Police Shootings Exploratory Data Analysis
 
-Code: https://www.kaggle.com/code/chrisroan/eda-for-us-police-shootings-2015-aug-2022-data
+[Code](https://www.kaggle.com/code/chrisroan/eda-for-us-police-shootings-2015-aug-2022-data)
 
 Objective: Discover patterns in US police shootings from 2015 to Aug 2022, such as total shootings, shooting by state, and shooting victims' race.
 
@@ -72,7 +74,7 @@ Key Findings/Summary: The age brackets of "21-40" and "41-60" have the highest i
 
 ### Netflix Titles Exploratory Data Analysis 
 
-Code: https://www.kaggle.com/code/chrisroan/netflix-titles-project-2019-data
+[Code](https://www.kaggle.com/code/chrisroan/netflix-titles-project-2019-data)
 
 Objective: Look for trends in what Netflix puts on its platform. All data was collected from Netflix's release to 2019 by "Flixable". Guiding questions: "Does Netflix focus more on TV shows or movies?, "What does the distribution of age ratings for TV shows and movies look like?", "How do the titles produced by various countries differ (do they focus on TV shows or movies?", and "What directors appear most frequently?"
 
@@ -82,43 +84,43 @@ Key Findings/Summary: The sheer number of titles added to Netflix has increased 
 
 ### London Bus Safety Dashboard - London Bus Safety Performance Dataset (2015- Sept. 2018) - Data Visualization with Tableau Certificate Project 
 
-Link: https://public.tableau.com/app/profile/christopher.roan/viz/TFLBusSafety-Jan2015toSept2018/LBSDashboard
+[Link](https://public.tableau.com/app/profile/christopher.roan/viz/TFLBusSafety-Jan2015toSept2018/LBSDashboard)
 
 Description: Interactive dashboard consisting of a list of boroughs in London, and incident counts that occured in each borough and bus route. Also includes incidents over time (per year) and per season.
 
 ### Sales and Profit Dashboard - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project
 
-Link: https://public.tableau.com/app/profile/christopher.roan/viz/SalesandProfitbyRegionandCustomer/CustomerDashboard
+[Link](https://public.tableau.com/app/profile/christopher.roan/viz/SalesandProfitbyRegionandCustomer/CustomerDashboard)
 
 Description: Interactive dashboard containing a sales and profit overview by region of the Untied States, a scatterplot of sales and profit by customer, and a list of customers ranked by total sales to that customer.
 
 ### Discount and Profit Dashboard - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project 
 
-Link: https://public.tableau.com/app/profile/christopher.roan/viz/DiscountvsProfitDashboard-SuperstoreDataset/AverageDiscountandProfitRatio
+[Link](https://public.tableau.com/app/profile/christopher.roan/viz/DiscountvsProfitDashboard-SuperstoreDataset/AverageDiscountandProfitRatio)
 
 Description: Interactive dashboard containing discount and profit overviews by region of the US and segment (category of product), scatterplot showing trends of discount vs profits, and a customer ranking by average discount that is colored by profit.
 
 ### Control Chart of Profit by Month - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
 
-Link: https://public.tableau.com/app/profile/christopher.roan/viz/ControlChart-SuperstoreProfitbyMonth/ControlChart
+[Link](https://public.tableau.com/app/profile/christopher.roan/viz/ControlChart-SuperstoreProfitbyMonth/ControlChart)
 
 Description: A control chart of profits per month that highlights outlier months (based on standard of deviation).
 
 ### Customer Sales and Profit Scatterplot - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
 
-Link: https://public.tableau.com/app/profile/christopher.roan/viz/CustomerSalesvs_ProfitScatterplot-SuperstoreDataset/CustomerSalesvs_ProfitScatterplot
+[Link](https://public.tableau.com/app/profile/christopher.roan/viz/CustomerSalesvs_ProfitScatterplot-SuperstoreDataset/CustomerSalesvs_ProfitScatterplot)
 
 Description: Scatterplot of sales and profit with a trend line, colored by profit ratio and shaped by product category.
 
 ### Dual Layer Map of Profit Ratio and Regions of the US - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
 
-Link: https://public.tableau.com/app/profile/christopher.roan/viz/DualLayerMap-SuperstoreDataset/DualLayerMapsAssignment
+[Link](https://public.tableau.com/app/profile/christopher.roan/viz/DualLayerMap-SuperstoreDataset/DualLayerMapsAssignment)
 
 Description: Dual layer map chart that shows regions of the US, highlighting postal codes by profit ratio and sales. 
 
 ### Total Coronavirus Cases and Deaths in the United States (March 2023) - Coronavirus State and County Dataset (through Mar 2023)
 
-Link: https://public.tableau.com/app/profile/christopher.roan/viz/TotalCoronavirusCasesandDeathsintheUnitedStatesMarch2023/USCoronavirusDashboard
+[Link](https://public.tableau.com/app/profile/christopher.roan/viz/TotalCoronavirusCasesandDeathsintheUnitedStatesMarch2023/USCoronavirusDashboard)
 
 Description: Interactive dashboard that shows total coronavirus-related deaths and cases per state and county. Also contains bar graphs showing counties with highest amount of cases and deaths. Allows the user to click a state to drill down to the county level, as well as filter the bar graphs to only show counties in the selected state.
 
@@ -126,19 +128,19 @@ Description: Interactive dashboard that shows total coronavirus-related deaths a
 
 ## Google Data Analytics Certificate - Google - Aug, 8 2022
 
-Link: https://www.coursera.org/account/accomplishments/professional-cert/S9DL8NNVPA2J
+[Link](https://www.coursera.org/account/accomplishments/professional-cert/S9DL8NNVPA2J)
 
 ## Data Visualization with Tableau - UC Davis - June 8, 2023
 
-Link: https://www.coursera.org/account/accomplishments/specialization/NWCNT8HB3959
+[Link](https://www.coursera.org/account/accomplishments/specialization/NWCNT8HB3959)
 
 ## Database Design and Basic SQL in PostgresSQL - University of Michigan - April 11, 2023
 
-Link: https://www.coursera.org/account/accomplishments/verify/3MVM5ZAV3DDT
+[Link](https://www.coursera.org/account/accomplishments/verify/3MVM5ZAV3DDT)
 
 ## Intermediate ProgresSQL - University of Michigan - April 18, 2023
 
-Link: https://www.coursera.org/account/accomplishments/verify/G4FWKH77LRK3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+[Link](https://www.coursera.org/account/accomplishments/verify/G4FWKH77LRK3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 
 
