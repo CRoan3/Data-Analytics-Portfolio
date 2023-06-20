@@ -77,27 +77,27 @@ Key Findings/Summary: The sheer number of titles added to Netflix has increased 
 Description: Interactive dashboard consisting of a list of boroughs in London, and incident counts that occured in each borough and bus route. Also includes incidents over time (per year) and per season.
 
 ### [Sales and Profit Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/SalesandProfitbyRegionandCustomer/CustomerDashboard) 
- - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://community.tableau.com/s/question/0D54T00000C601sSAB/tableau-sample-questions-with-sample-superstore-data)
 
 Description: Interactive dashboard containing a sales and profit overview by region of the Untied States, a scatterplot of sales and profit by customer, and a list of customers ranked by total sales to that customer.
 
 ### [Discount and Profit Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/DiscountvsProfitDashboard-SuperstoreDataset/AverageDiscountandProfitRatio)
- - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://community.tableau.com/s/question/0D54T00000C601sSAB/tableau-sample-questions-with-sample-superstore-data)
 
 Description: Interactive dashboard containing discount and profit overviews by region of the US and segment (category of product), scatterplot showing trends of discount vs profits, and a customer ranking by average discount that is colored by profit.
 
 ### [Control Chart of Profit by Month](https://public.tableau.com/app/profile/christopher.roan/viz/ControlChart-SuperstoreProfitbyMonth/ControlChart)
- - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://community.tableau.com/s/question/0D54T00000C601sSAB/tableau-sample-questions-with-sample-superstore-data)
    
 Description: A control chart of profits per month that highlights outlier months (based on standard of deviation).
 
 ### [Customer Sales and Profit Scatterplot](https://public.tableau.com/app/profile/christopher.roan/viz/CustomerSalesvs_ProfitScatterplot-SuperstoreDataset/CustomerSalesvs_ProfitScatterplot)
- - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://community.tableau.com/s/question/0D54T00000C601sSAB/tableau-sample-questions-with-sample-superstore-data)
 
 Description: Scatterplot of sales and profit with a trend line, colored by profit ratio and shaped by product category.
 
 ### [Dual Layer Map of Profit Ratio and Regions of the US](https://public.tableau.com/app/profile/christopher.roan/viz/DualLayerMap-SuperstoreDataset/DualLayerMapsAssignment)
- - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://community.tableau.com/s/question/0D54T00000C601sSAB/tableau-sample-questions-with-sample-superstore-data)
    
 Description: Dual layer map chart that shows regions of the US, highlighting postal codes by profit ratio and sales. 
 
