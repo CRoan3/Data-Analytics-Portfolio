@@ -72,37 +72,37 @@ Key Findings/Summary: The sheer number of titles added to Netflix has increased 
 ## Projects in Tableau
 
 ### [London Bus Safety Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/TFLBusSafety-Jan2015toSept2018/LBSDashboard)
-- London Bus Safety Performance Dataset (2015- Sept. 2018) - Data Visualization with Tableau Certificate Project 
+- [London Bus Safety Performance Dataset (2015- Sept. 2018) - Data Visualization with Tableau Certificate Project](https://data.world/makeovermonday/2018w51) 
 
 Description: Interactive dashboard consisting of a list of boroughs in London, and incident counts that occured in each borough and bus route. Also includes incidents over time (per year) and per season.
 
 ### [Sales and Profit Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/SalesandProfitbyRegionandCustomer/CustomerDashboard) 
- - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
 
 Description: Interactive dashboard containing a sales and profit overview by region of the Untied States, a scatterplot of sales and profit by customer, and a list of customers ranked by total sales to that customer.
 
 ### [Discount and Profit Dashboard](https://public.tableau.com/app/profile/christopher.roan/viz/DiscountvsProfitDashboard-SuperstoreDataset/AverageDiscountandProfitRatio)
- - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project 
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
 
 Description: Interactive dashboard containing discount and profit overviews by region of the US and segment (category of product), scatterplot showing trends of discount vs profits, and a customer ranking by average discount that is colored by profit.
 
 ### [Control Chart of Profit by Month](https://public.tableau.com/app/profile/christopher.roan/viz/ControlChart-SuperstoreProfitbyMonth/ControlChart)
- - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
-
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
+   
 Description: A control chart of profits per month that highlights outlier months (based on standard of deviation).
 
 ### [Customer Sales and Profit Scatterplot](https://public.tableau.com/app/profile/christopher.roan/viz/CustomerSalesvs_ProfitScatterplot-SuperstoreDataset/CustomerSalesvs_ProfitScatterplot)
- - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
 
 Description: Scatterplot of sales and profit with a trend line, colored by profit ratio and shaped by product category.
 
 ### [Dual Layer Map of Profit Ratio and Regions of the US](https://public.tableau.com/app/profile/christopher.roan/viz/DualLayerMap-SuperstoreDataset/DualLayerMapsAssignment)
- - Superstore Dataset (Jan 2011 to Dec 2014) - Data Visuaization with Tableau Certificate Project
-
+ - [Superstore Dataset (Jan 2011 to Dec 2014) - Data Visualization with Tableau Certifice Project](https://data.world/makeovermonday/2018w51)
+   
 Description: Dual layer map chart that shows regions of the US, highlighting postal codes by profit ratio and sales. 
 
 ### [Total Coronavirus Cases and Deaths in the United States](https://public.tableau.com/app/profile/christopher.roan/viz/TotalCoronavirusCasesandDeathsintheUnitedStatesMarch2023/USCoronavirusDashboard)
- - Coronavirus State and County Dataset (through Mar 2023)
+ - [Coronavirus State and County Dataset (through Mar 2023)](https://www.kaggle.com/datasets/joelhanson/coronavirus-covid19-data-in-the-united-states)
 
 Description: Interactive dashboard that shows total coronavirus-related deaths and cases per state and county. Also contains bar graphs showing counties with highest amount of cases and deaths. Allows the user to click a state to drill down to the county level, as well as filter the bar graphs to only show counties in the selected state.
 
