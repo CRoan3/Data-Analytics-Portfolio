@@ -104,7 +104,7 @@ Description: Dual layer map chart that shows regions of the US, highlighting pos
 ### [Total Coronavirus Cases and Deaths in the United States](https://public.tableau.com/app/profile/christopher.roan/viz/TotalCoronavirusCasesandDeathsintheUnitedStatesMarch2023/USCoronavirusDashboard)
  - [Coronavirus State and County Dataset (through Mar 2023)](https://www.kaggle.com/datasets/joelhanson/coronavirus-covid19-data-in-the-united-states)
 
-Description: Interactive dashboard that shows total coronavirus-related deaths and cases per state and county. Also contains bar graphs showing counties with highest amount of cases and deaths. Allows the user to click a state to drill down to the county level, as well as filter the bar graphs to only show counties in the selected state.
+Description: Interactive dashboard that shows total coronavirus-related deaths and cases per state and county. Also contains bar graphs showing counties with highest amount of cases and deaths. The user can click a state to drill down to the county level, as well as filter the bar graphs to only show counties in the selected state.
 
 # Relevant Certifications
 
