@@ -128,7 +128,3 @@ Description: Excel Dashboard highlighting Sales and Profit by Quarter, Sales by 
  - University of Michigan - April 18, 2023
 
 
-
-
-
-
