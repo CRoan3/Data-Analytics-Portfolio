@@ -108,7 +108,7 @@ Description: Interactive dashboard that shows total coronavirus-related deaths a
 
 ## Projects in Excel
 
-### [Superstore Sales Dashboard](https://github.com/CRoan3/Data-Analytics-Portfolio/blob/main/Superstore%20Sales%20Dashboard.xlsx)
+### [Superstore Sales Dashboard (xls)](https://github.com/CRoan3/Data-Analytics-Portfolio/blob/main/Superstore%20Sales%20Dashboard.xlsx)
  - [Superstore Sales Dataset (Jan 2014 - Jan 2018)](https://www.codybaldwin.com/sample-file-executive-dashboards)
  - [PDF Printout](https://github.com/CRoan3/Data-Analytics-Portfolio/blob/main/Superstore%20Sales%20Excel%20Dashboard.pdf)
 
