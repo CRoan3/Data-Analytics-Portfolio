@@ -106,6 +106,12 @@ Description: Dual layer map chart that shows regions of the US, highlighting pos
 
 Description: Interactive dashboard that shows total coronavirus-related deaths and cases per state and county. Also contains bar graphs showing counties with highest amount of cases and deaths. The user can click a state to drill down to the county level, as well as filter the bar graphs to only show counties in the selected state.
 
+## Projects in Excel
+
+### [Superstore Sales Dashboard](https://github.com/CRoan3/Data-Analytics-Portfolio/commit/c256aac1aa68b0fedff09af1f77d42cc1af347f0)
+
+Description: Excel Dashboard highlighting Sales and Profit by Quarter, Sales by Product Category, Sales by State - Filters for Year, Region, and Customer Segment (consumer/corporate/home office)
+
 # Relevant Certifications
 
 ## [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/S9DL8NNVPA2J)
