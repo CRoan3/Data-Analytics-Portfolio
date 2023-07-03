@@ -108,9 +108,9 @@ Description: Interactive dashboard that shows total coronavirus-related deaths a
 
 ## Projects in Excel
 
-### [Superstore Sales Dashboard (xls)](https://github.com/CRoan3/Data-Analytics-Portfolio/blob/main/Superstore%20Sales%20Dashboard.xlsx)
- - [Superstore Sales Dataset (Jan 2014 - Jan 2018)](https://www.codybaldwin.com/sample-file-executive-dashboards)
+### [Superstore Sales Dashboard (xlsx)](https://github.com/CRoan3/Data-Analytics-Portfolio/blob/main/Superstore%20Sales%20Dashboard.xlsx)
  - [PDF Printout](https://github.com/CRoan3/Data-Analytics-Portfolio/blob/main/Superstore%20Sales%20Excel%20Dashboard.pdf)
+ - [Superstore Sales Dataset (Jan 2014 - Jan 2018)](https://www.codybaldwin.com/sample-file-executive-dashboards)
 
 Description: Excel Dashboard highlighting Sales and Profit by Quarter, Sales by Product Category, Sales by State - Filters for Year, Region, and Customer Segment (consumer/corporate/home office)
 
